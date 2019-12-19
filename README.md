@@ -1,30 +1,33 @@
-# Nigeria-Inter-State-Trasportation-booking-System
-SUITABLE FOR ALL INTER STATE TRANSPORTATION COMPANY IN NIGERIA 
+# Nigeria-Inter-State-Trasportation -Bus-booking-System
+Good day guys.
 
-THE SYSTEM IS DEVELOPED IN PHP
+This is simple interstate transportation bus booking system
 
-ONLY ADMIN CAN ISSUE TICKET.
+Suitable for all interstate transportation company in Nigeria
 
-TICKETS ARE GENERATED IN PDF FORMAT AND CAN BE PRINTED WITH THERMAL PRINTER 
+The system is developed in php
 
-PASSENGERS MANIFEST ARE GENERATED AUTOMATICALY BASE ON DATE AND VEHICLE NUMBER.
+Only admin can issue ticket.
 
-IT CAN ALSO BE SUE TO GENERATE BOOKING REPORT.
+Tickets are generated in pdf format and can be printed with thermal printer
 
-create a database with the name bookin from your lacal server (xamp or wamp) and import the bookin.sql file. 
+Passengers manifest are generated automatically base on date and vehicle number.
 
-ADMIN NLOGING DETAILS:
+It can also be sue to generate booking report.
 
-USER NAME :admin
+Create a database with the name bookin from your local server (xamp or wamp) and import the bookin.sql file.
 
-Password :admin
+Admin logging details:
 
-FOR MORE FREE SCRIPT AND DOCUMENTATION VISIT 
+User name: admin
+
+Password: admin
+
+For more free script and documentation visit
 https://www.naijaitguys.com.ng
-CALL-->:08156678190.
+call-->:08156678190.
 
-100 % FREE 
-100 % NIGERIA.
-
+100 % free
+100 % Nigeria.
 
 
